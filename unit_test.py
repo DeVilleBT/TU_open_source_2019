@@ -5,4 +5,4 @@ from firsttry import firsttry_fun
 
 
 def test_firsttry_fun():
-    assert funny(1, 1) == 2
+    assert firsttry_fun(1, 1) == 2
